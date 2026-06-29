@@ -6,7 +6,7 @@
 - 😎 **Hello!, I’m Ario Bimo Munfadhil**
 - 🎓 **Instrumentation & Automation Engineering Student** at Institut Teknologi Sumatera (ITERA).
 - 🛠️ Deeply passionate about **Embedded Systems, Firmware Development, IoT Integration, and Robotics**.
-- 🌱 Currently working with **FreeRTOS, C/C++ for Microcontrollers, KiCad for PCB Design, and PLC Programming**.
+- 🌱 Currently learning with **FreeRTOS, C/C++ for Microcontrollers, KiCad for PCB Design, and PLC Programming**.
 
 </div>
 <br><br>
